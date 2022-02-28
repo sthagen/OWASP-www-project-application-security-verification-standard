@@ -1,21 +1,30 @@
 ### Source in GitHub
-* [Stable Release 4.0.2](https://github.com/OWASP/ASVS/tree/v4.0.2/4.0)
-* ["Bleeding Edge" version](https://github.com/OWASP/ASVS/tree/master/4.0)
+* [Stable Release 4.0.3](https://github.com/OWASP/ASVS/tree/v4.0.3/4.0)
+* ["Bleeding Edge" version](https://github.com/OWASP/ASVS/tree/master/5.0)
 
 #### Previous stable releases:
+* [Stable Release 4.0.2](https://github.com/OWASP/ASVS/tree/v4.0.2/4.0)
 * [Stable Release 4.0.1](https://github.com/OWASP/ASVS/tree/v4.0.1/4.0)
 
-### Downloads (ASVS 4.0.2)
-* [English PDF](https://github.com/OWASP/ASVS/raw/v4.0.2/4.0/OWASP%20Application%20Security%20Verification%20Standard%204.0.2-en.pdf)
-* [English Word](https://github.com/OWASP/ASVS/raw/v4.0.2/4.0/docs_en/OWASP%20Application%20Security%20Verification%20Standard%204.0.2-en.docx)
-* [English CSV](https://github.com/OWASP/ASVS/raw/v4.0.2/4.0/docs_en/OWASP%20Application%20Security%20Verification%20Standard%204.0.2-en.csv)
-* [OWASP Application Security Verification Standard 4.0.2 (GitHub Tag)](https://github.com/OWASP/ASVS/tree/v4.0.2)
+### Downloads (ASVS 4.0.3)
+* [English PDF](https://github.com/OWASP/ASVS/raw/v4.0.3/4.0/OWASP%20Application%20Security%20Verification%20Standard%204.0.3-en.pdf)
+* [English Word](https://github.com/OWASP/ASVS/raw/v4.0.3/4.0/docs_en/OWASP%20Application%20Security%20Verification%20Standard%204.0.3-en.docx)
+* [English CSV](https://github.com/OWASP/ASVS/raw/v4.0.3/4.0/docs_en/OWASP%20Application%20Security%20Verification%20Standard%204.0.3-en.csv)
+* [OWASP Application Security Verification Standard 4.0.3 (GitHub Tag)](https://github.com/OWASP/ASVS/tree/v4.0.3)
 
 ### Translations:
-* [Persian PDF](https://github.com/OWASP/ASVS/raw/v4.0.2/4.0/OWASP%20Application%20Security%20Verification%20Standard%204.0-fa.pdf)
-* [German PDF](https://github.com/OWASP/ASVS/raw/v4.0.2/4.0/OWASP%20Application%20Security%20Verification%20Standard%204.0.2-de.pdf) 
-* [Japanese PDF](https://github.com/OWASP/ASVS/raw/v4.0.2/4.0/OWASP-Application-Security-Verification-Standard-4.0-ja.pdf)
-* [Turkish PDF](https://github.com/OWASP/ASVS/raw/v4.0.2/4.0/OWASP%20Application%20Security%20Verification%20Standard%204.0-tr.pdf)
+* v4.0.3
+   * [Spanish](https://github.com/OWASP/ASVS/raw/v4.0.3/4.0/OWASP%20Application%20Security%20Verification%20Standard%204.0.3-es.pdf)
+   * [Simplified Chinese](https://github.com/OWASP/ASVS/raw/v4.0.3/4.0/OWASP%20Application%20Security%20Verification%20Standard%204.0.3-zh-cn.pdf)
+   * [Arabic](https://github.com/OWASP/ASVS/raw/v4.0.3/4.0/OWASP%20Application%20Security%20Verification%20Standard%204.0.3-ar.pdf)
+* v4.0.2
+   * [German](https://github.com/OWASP/ASVS/raw/v4.0.2/4.0/OWASP%20Application%20Security%20Verification%20Standard%204.0.2-de.pdf) 
+   * [Russian](https://github.com/OWASP/ASVS/raw/v4.0.2/4.0/OWASP%20Application%20Security%20Verification%20Standard%204.0.2-ru.pdf) 
+* v4.0.1
+   * [Persian](https://github.com/OWASP/ASVS/raw/v4.0.1/4.0/OWASP%20Application%20Security%20Verification%20Standard%204.0.1-fa.pdf)
+   * [Japanese](https://github.com/OWASP/ASVS/raw/v4.0.1/4.0/OWASP%20Application%20Security%20Verification%20Standard%204.0.1-ja.pdf)
+   * [Turkish](https://github.com/OWASP/ASVS/raw/v4.0.1/4.0/OWASP%20Application%20Security%20Verification%20Standard%204.0.1-tr.pdf)
+   * [French](https://github.com/OWASP/ASVS/raw/v4.0.1/4.0/OWASP%20Application%20Security%20Verification%20Standard%204.0.1-fr.pdf)
 
 ### Social Links
 Follow the project on Twitter at: [@OWASP_ASVS](https://twitter.com/OWASP_ASVS)
